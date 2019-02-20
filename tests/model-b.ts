@@ -1,4 +1,4 @@
-import model from "./model";
+import model from "../model";
 import ModelA from './model-a'
 
 export default model('ModelB', {
